@@ -23,6 +23,39 @@ body {
 
 }
 
+#area-principal {
+    width: 920px;
+    margin: 0 auto;
+}
+
+
+#area-postagens {
+    width: 660px;
+    float: left;
+    background: white;
+
+}
+
+#area-lateral {
+    width: 240px;
+    float: right;
+    background: white;
+
+}
+
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+#rodape {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #CCC;
+}
+
 /*
 **** Formatação do menu ****
 */
